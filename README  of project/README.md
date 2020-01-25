@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Around the corner
-*Valerie Stroh, Senad Jadeed, Tobias Glinzer*
+*Valerie Stroh, Senan Jadeed, Tobias Glinzer*
 
 *Data Analysis January 2019, Berlin, 2020-01-25*
 

@@ -93,8 +93,7 @@ After we had the data we split up the work, defined tasks, used Trello intensive
 The repository is set up as follows:
 Folder structure: 
 
-## File structure: In our Project folder you can find the notebooks/files on:
-### 1. Sourcing the data:
+#### 1. Sourcing the data:
 
 [AirBnB](https://github.com/valsophie/group_project-/blob/master/2020-01-24_API_Request_Airbnb.ipynb)
 

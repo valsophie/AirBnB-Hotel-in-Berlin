@@ -148,6 +148,6 @@ Export from Booking.com data cleaning:
 
 [Repository](https://github.com/valsophie/group_project-)
 
-[Slides](https://docs.google.com/presentation/d/1QMRnM0o_aV_7aZIWNFUo00PV0I9q8726zbdpKV6Djf0/edit?usp=sharing)
+[Slides](https://github.com/valsophie/group_project-/blob/master/Presentation%20-%20Around%20the%20corner%20-%20Airbnb%20vs%20Hotels%20in%20Berlin.pdf)
 
 [Trello](https://trello.com/b/NqMasWcp/data-thieves-kanban-data-01-20-project3-group2)  

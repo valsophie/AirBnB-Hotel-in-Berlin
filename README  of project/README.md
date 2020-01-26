@@ -96,11 +96,11 @@ Folder structure:
 ## File structure: In our Project folder you can find the notebooks/files on:
 ### 1. Sourcing the data:
 
-[For AirBnB:](2020-01-24_API_Request_Airbnb.ipynb)
+[AirBnB:](https://github.com/valsophie/group_project-/blob/master/2020-01-24_API_Request_Airbnb.ipynb)
 
-[For Expedia:](Expedia_webscraping.ipynb)
+[Expedia:](Expedia_webscraping.ipynb)
 
-[For Booking:] we used octoparse, so no coding was needed
+Booking.com - we used [Octoparse](https://www.octoparse.com/), so no coding was needed
 
 ### 2. Cleaning:
 

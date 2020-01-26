@@ -52,7 +52,7 @@ Method used: Selenium, scraping the following site:
 
 Booking.com data - gathered through Octoparse - data include: hotels in Berlin, price per night for 2 persons, area
 
-Link: **INSERT MISSING LINK**
+Link: Worked inside Octoparse app but narrowed results according to our specifications
 
 
 ## Database
@@ -99,30 +99,51 @@ Folder structure:
 [Readme]
 
 ### Subfolder with following content:
-##### 1. Data Sourcing:
+##### 1. Data Sourcing: 
 
-[AirBnB](https://github.com/valsophie/group_project-/blob/master/2020-01-24_API_Request_Airbnb.ipynb)
+[AirBnB](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/2020-01-24_API_Request_Airbnb.ipynb)
 
-[Expedia](Expedia_webscraping.ipynb)
+[Expedia](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/Expedia_webscraping.ipynb)
 
-Booking.com - we used [Octoparse](https://www.octoparse.com/), so no coding was needed
+[Booking.com](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/BookingcomHotelsinBerlin.csv) - we used [Octoparse](https://www.octoparse.com/), so no coding was needed
 
 ##### 2. Data Cleaning:
 
-[AirBnB](2020-01-24_API_Request_Airbnb.ipynb) (same file as for data sourcing)
+[AirBnB](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/2020-01-24_API_Request_Airbnb.ipynb) (same file as for data sourcing)
 
-[Expedia](Expedia_cleaning.ipynb)
+[Expedia](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/Expedia_cleaning.ipynb)
+Uses this
 
-[Booking.com](Booking_data_cleaning.ipynb)
+[Booking.com](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/Booking_data_cleaning.ipynb)
 
 
-##### 3. Export files (*.csv or *.pkl) afer data cleaning, based on which the final analysis was done:
+##### 3. Export files (*.csv* or *.pkl*):
 
-[AirBnB]
+Export from Octoparse:
+[Octoparse csv - see above, this is the same file as mentioned for data sourcing from Booking.com data](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/BookingcomHotelsinBerlin.csv)
 
-[Expedia]
+Export from AirBnB data extracting and cleaning:
+[AirBnB csv](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/2017_airbnb_api_data_clean.csv)
+[AirBnB pkl - used for final analysis](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/2017_airbnb_api_data_clean.pkl)
 
-[Booking.com]
+Export from Expedia data scraping:
+[Expedia results csv](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/results.csv)
+
+
+Export from Expedia data cleaning:
+
+[Expedia data csv - used for final analysis](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/data_clean.csv)
+
+
+Export from 
+[Booking.com csv](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/Booking_price_comparison.csv)
+[Booking.com pkl - used for final analysis](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/Booking_price_comparison.pkl)
+
+
+#### Further files in folder:
+
+**chromedriver** and **chromedriver.exe** - those files are needed to run the Expedia web scraper on Windows/Mac/Linux 
+
 
 ## Links
 

@@ -21,8 +21,8 @@ In this project we wanted to focus on a topic related to tourism. We chose to co
 As written before, the number of Airbnb listings has grown over the last years. Today it seems that just based on the number of available rooms in Berlin, booking a room on Airbnb is a true alternative to booking a hotel room.
 The questions/assumptions we have are:
 
-1. How is the density of Airbnb listings compared to the density of hotels throughout the city? Does a higher number of hotels in a specific area correlate to a higher number of Airbnb apartments? 
-        We assume that there might be a negative correlation as hotels might not be in residential areas.
+1. How is the umber of Airbnb listings compared to the number of hotels throughout the city? Does a higher number of hotels in a specific area correlate to a higher number of Airbnb apartments? 
+        We assume that this is not be the case, as hotels might not be in residential areas.
 
 2. How do the prices compare to each other? Do higher hotel prices in some areas result in higher prices per night in an Airbnb apartment? 
         There might be a positive correlation as expensive hotels are most likely in areas with high 
@@ -92,12 +92,22 @@ Extracting data required a lot of collaboration so that most of the time at leas
 After we had the data we split up the work, defined tasks, used Trello intensively.
 
 The repository is set up as follows:
-Folder structure: **Describe folder structure**
-File structure: **Describe file structure**
+Folder structure: 
 
+File structure: In our Project folder you can find the notebooks/files on 
+1. Sourcing the data:
+For AirBnB: 2020-01-24_API_Request_Airbnb.ipynb
+For Expedia: Expedia_webscraping.ipynb
+For Booking: we used octoparse, so no coding was needed
+2. Cleaning:
+For AirBnbB: 2020-01-24_API_Request_Airbnb.ipynb
+For Expedia: Expedia_cleaning.ipynb
+For Booking: Booking_data_cleaning.ipynb
+3.Merging and Plotting
+Plotting and descriptive statistics-SJ_play.ipynb
+4. Extracted CSV Files
 
 ## Links
-
 
 [Repository](https://github.com/valsophie/group_project-)  
 [Slides](https://slides.com/)  **Insert link to slides**

@@ -124,10 +124,12 @@ Uses this
 Export from Octoparse:
 [Octoparse csv - see above, this is the same file as mentioned for data sourcing from Booking.com data](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/BookingcomHotelsinBerlin.csv)
 
+
 Export from AirBnB data extracting and cleaning:
 
 [AirBnB csv](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/2017_airbnb_api_data_clean.csv)
 [AirBnB pkl - used for final analysis](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/2017_airbnb_api_data_clean.pkl)
+
 
 Export from Expedia data scraping:
 
@@ -143,6 +145,7 @@ Export from Booking.com data cleaning:
 
 [Booking.com csv](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/Booking_price_comparison.csv)
 [Booking.com pkl - used for final analysis](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/Booking_price_comparison.pkl)
+
 
 
 #### Further files in folder:

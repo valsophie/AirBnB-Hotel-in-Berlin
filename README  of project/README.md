@@ -42,11 +42,13 @@ for both - Airbnb listings and hotels.
 
 We used the following three sources:
 
-Airbnb listings - API - data include: Airbnb listings worldwide (we reduced it to Berlin), data include price per night, area, name of owner, geolocation, cleaning fee, no of persons, description of apartment and more.
-[Link to API used](https://public.opendatasoft.com/explore/dataset/airbnb-listings/api/?disjunctive.host_verifications&disjunctive.amenities&disjunctive.features&rows=1000&refine.city=Berlin&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQ09VTlQiLCJ5QXhpcyI6Imhvc3RfbGlzdGluZ3NfY291bnQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiJyYW5nZS1jdXN0b20ifV0sInhBeGlzIjoiY2l0eSIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6IiIsInNvcnQiOiIiLCJzZXJpZXNCcmVha2Rvd24iOiJyb29tX3R5cGUiLCJjb25maWciOnsiZGF0YXNldCI6ImFpcmJuYi1saXN0aW5ncyIsIm9wdGlvbnMiOnsiZGlzanVuY3RpdmUuaG9zdF92ZXJpZmljYXRpb25zIjp0cnVlLCJkaXNqdW5jdGl2ZS5hbWVuaXRpZXMiOnRydWUsImRpc2p1bmN0aXZlLmZlYXR1cmVzIjp0cnVlLCJyb3dzIjoiMTAwMCIsInJlZmluZS5jaXR5IjoiQmVybGluIn19fV0sInRpbWVzY2FsZSI6IiIsImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9&location=13,52.48848,13.15063&basemap=jawg.streets)
+Airbnb listings - API - data include: Airbnb listings worldwide (we reduced it to Berlin), data include price per night, area, name of owner, geolocation, cleaning fee, no of persons, description of apartment and more:
+
+[Link to used API](https://public.opendatasoft.com/explore/dataset/airbnb-listings/api/?disjunctive.host_verifications&disjunctive.amenities&disjunctive.features&rows=1000&refine.city=Berlin&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQ09VTlQiLCJ5QXhpcyI6Imhvc3RfbGlzdGluZ3NfY291bnQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiJyYW5nZS1jdXN0b20ifV0sInhBeGlzIjoiY2l0eSIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6IiIsInNvcnQiOiIiLCJzZXJpZXNCcmVha2Rvd24iOiJyb29tX3R5cGUiLCJjb25maWciOnsiZGF0YXNldCI6ImFpcmJuYi1saXN0aW5ncyIsIm9wdGlvbnMiOnsiZGlzanVuY3RpdmUuaG9zdF92ZXJpZmljYXRpb25zIjp0cnVlLCJkaXNqdW5jdGl2ZS5hbWVuaXRpZXMiOnRydWUsImRpc2p1bmN0aXZlLmZlYXR1cmVzIjp0cnVlLCJyb3dzIjoiMTAwMCIsInJlZmluZS5jaXR5IjoiQmVybGluIn19fV0sInRpbWVzY2FsZSI6IiIsImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9&location=13,52.48848,13.15063&basemap=jawg.streets)
 
 Expedia listings - Web Scraping - data include: hotels in Berlin, price per night for 2 persons, area
 Method used: Selenium, scraping the following site:
+
 [Link used to scrape Expedia](https://www.expedia.de/Hotel-Search?adults=2&destination=Berlin&endDate=2020-02-06&rooms=1&&startDate=2020-02-05)
 
 
@@ -123,18 +125,22 @@ Export from Octoparse:
 [Octoparse csv - see above, this is the same file as mentioned for data sourcing from Booking.com data](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/BookingcomHotelsinBerlin.csv)
 
 Export from AirBnB data extracting and cleaning:
+
 [AirBnB csv](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/2017_airbnb_api_data_clean.csv)
 [AirBnB pkl - used for final analysis](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/2017_airbnb_api_data_clean.pkl)
 
 Export from Expedia data scraping:
+
 [Expedia results csv](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/results.csv)
 
 
 Export from Expedia data cleaning:
+
 [Expedia data csv - used for final analysis](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/data_clean.csv)
 
 
 Export from Booking.com data cleaning:
+
 [Booking.com csv](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/Booking_price_comparison.csv)
 [Booking.com pkl - used for final analysis](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/Booking_price_comparison.pkl)
 

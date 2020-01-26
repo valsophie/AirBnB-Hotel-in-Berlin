@@ -93,7 +93,7 @@ Extracting data required a lot of collaboration so that most of the time at leas
 After we had the data we split up the work, defined tasks, used Trello intensively.
 
 The repository is set up as follows:
-Folder structure: 
+
 
 ### Output folder:
 [Merging, Analysis and Plotting](https://github.com/valsophie/group_project-/blob/master/Analysis%20Airbnb%20vs%20hotels%20Berlin%20-%20Plotting%20and%20descriptive%20Statistics.ipynb)
@@ -114,7 +114,7 @@ Folder structure:
 [AirBnB](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/2020-01-24_API_Request_Airbnb.ipynb) (same file as for data sourcing)
 
 [Expedia](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/Expedia_cleaning.ipynb)
-Uses this
+
 
 [Booking.com](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/Booking_data_cleaning.ipynb)
 

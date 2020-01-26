@@ -15,7 +15,7 @@
 - [Links](#links)
 
 ## Project Description
-In this project we wanted to focus on a topic related to tourism. We chose to compare Airbnb listings with hotels in Berlin, Germany. As Airbnb and hence the number of available apartments through its service has grown tremendously over the last years, it has become an alternative for tourists/business travelers that need a place to stay overnight. Therefore, we compared hotels and airbnb listings with each other to find differences/similarities between those two.
+In this project we wanted to focus on a topic related to tourism. We chose to compare Airbnb listings with hotels in Berlin, Germany. As Airbnb and hence the number of available apartments through its service has grown tremendously over the last years, it has become an alternative for tourists/business travelers that need a place to stay overnight. Therefore, we compared hotels and Airbnb listings with each other to find differences/similarities between those two.
 
 ## Questions & Hypotheses
 As written before, the number of Airbnb listings has grown over the last years. Today it seems that just based on the number of available rooms in Berlin, booking a room on Airbnb is a true alternative to booking a hotel room.
@@ -109,7 +109,7 @@ Booking.com - we used [Octoparse](https://www.octoparse.com/), so no coding was 
 
 ##### 2. Data Cleaning:
 
-[AirBnB](2020-01-24_API_Request_Airbnb.ipynb)(same file as for data sourcing)
+[AirBnB](2020-01-24_API_Request_Airbnb.ipynb) (same file as for data sourcing)
 
 [Expedia](Expedia_cleaning.ipynb)
 

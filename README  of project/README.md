@@ -21,12 +21,11 @@ In this project we wanted to focus on a topic related to tourism. We chose to co
 As written before, the number of Airbnb listings has grown over the last years. Today it seems that just based on the number of available rooms in Berlin, booking a room on Airbnb is a true alternative to booking a hotel room.
 The questions/assumptions we have are:
 
-1. How is the umber of Airbnb listings compared to the number of hotels throughout the city? Does a higher number of hotels in a specific area correlate to a higher number of Airbnb apartments? 
-        We assume that this is not be the case, as hotels might not be in residential areas.
+1. How is the number of Airbnb listings compared to the number of hotels throughout the city in the different areas?
+        We assume that Airbnbs are more likely to be found in residential areas, where as hotels also cover business                   districts/more central districts.
 
-2. How do the prices compare to each other? Do higher hotel prices in some areas result in higher prices per night in an Airbnb apartment? 
-        There might be a positive correlation as expensive hotels are most likely in areas with high 
-        rents, resulting in an increased average price per night for an Airbnb apartment in those areas.
+2. How do the prices per area compare to each other? Do higher hotel prices in some areas also mean higher prices per night in an Airbnb apartment? 
+        Expensive hotels are most likely in areas with high rents, resulting in an increased average price per night for an           Airbnb apartment in this area.
 
 3. Over all, you might assume that the average price per night in an Airbnb apartment is less than the average price per night in a hotel as you get less service. But is that true? 
         Our assumption is that the average price per night in an Airbnb apartment is less than the 
@@ -120,5 +119,5 @@ Folder structure:
 ## Links
 
 [Repository](https://github.com/valsophie/group_project-)  
-[Slides](https://slides.com/)  **Insert link to slides**
+[Slides](https://docs.google.com/presentation/d/1QMRnM0o_aV_7aZIWNFUo00PV0I9q8726zbdpKV6Djf0/edit?usp=sharing)
 [Trello](https://trello.com/b/NqMasWcp/data-thieves-kanban-data-01-20-project3-group2)  

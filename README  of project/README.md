@@ -94,17 +94,27 @@ After we had the data we split up the work, defined tasks, used Trello intensive
 The repository is set up as follows:
 Folder structure: 
 
-File structure: In our Project folder you can find the notebooks/files on 
+File structure: In our Project folder you can find the notebooks/files on:
 1. Sourcing the data:
+
 For AirBnB: 2020-01-24_API_Request_Airbnb.ipynb
+
 For Expedia: Expedia_webscraping.ipynb
+
 For Booking: we used octoparse, so no coding was needed
+
 2. Cleaning:
+
 For AirBnbB: 2020-01-24_API_Request_Airbnb.ipynb
+
 For Expedia: Expedia_cleaning.ipynb
+
 For Booking: Booking_data_cleaning.ipynb
+
 3.Merging and Plotting
+
 Plotting and descriptive statistics-SJ_play.ipynb
+
 4. Extracted CSV Files
 
 ## Links

@@ -93,7 +93,13 @@ After we had the data we split up the work, defined tasks, used Trello intensive
 The repository is set up as follows:
 Folder structure: 
 
-#### 1. Sourcing the data:
+### Output folder:
+[Merging, Analysis and Plotting]
+
+[Readme]
+
+### Subfolder with following content:
+##### 1. Data Sourcing:
 
 [AirBnB](https://github.com/valsophie/group_project-/blob/master/2020-01-24_API_Request_Airbnb.ipynb)
 
@@ -101,19 +107,22 @@ Folder structure:
 
 Booking.com - we used [Octoparse](https://www.octoparse.com/), so no coding was needed
 
-### 2. Cleaning:
+##### 2. Data Cleaning:
 
-[For AirBnbB:](2020-01-24_API_Request_Airbnb.ipynb)
+[AirBnB](2020-01-24_API_Request_Airbnb.ipynb)(same file as for data sourcing)
 
-[For Expedia:](Expedia_cleaning.ipynb)
+[Expedia](Expedia_cleaning.ipynb)
 
-[For Booking:](Booking_data_cleaning.ipynb)
+[Booking.com](Booking_data_cleaning.ipynb)
 
-### 3.Merging and Plotting
 
-[Link to file](Plotting and descriptive statistics-SJ_play.ipynb)
+##### 3. Export files (*.csv or *.pkl) afer data cleaning, based on which the final analysis was done:
 
-### 4. Extracted CSV Files
+[AirBnB]
+
+[Expedia]
+
+[Booking.com]
 
 ## Links
 

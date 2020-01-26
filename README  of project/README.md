@@ -124,7 +124,6 @@ Export from Octoparse:
 
 Export from AirBnB data extracting and cleaning:
 [AirBnB csv](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/2017_airbnb_api_data_clean.csv)
-
 [AirBnB pkl - used for final analysis](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/2017_airbnb_api_data_clean.pkl)
 
 Export from Expedia data scraping:
@@ -137,7 +136,6 @@ Export from Expedia data cleaning:
 
 Export from Booking.com data cleaning:
 [Booking.com csv](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/Booking_price_comparison.csv)
-
 [Booking.com pkl - used for final analysis](https://github.com/valsophie/group_project-/blob/master/Notebooks%20for%20scraping%2Bcleaning%20and%20raw%20data/Booking_price_comparison.pkl)
 
 
@@ -148,6 +146,8 @@ Export from Booking.com data cleaning:
 
 ## Links
 
-[Repository](https://github.com/valsophie/group_project-)  
+[Repository](https://github.com/valsophie/group_project-)
+
 [Slides](https://docs.google.com/presentation/d/1QMRnM0o_aV_7aZIWNFUo00PV0I9q8726zbdpKV6Djf0/edit?usp=sharing)
+
 [Trello](https://trello.com/b/NqMasWcp/data-thieves-kanban-data-01-20-project3-group2)  
